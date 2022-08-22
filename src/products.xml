@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+    <clothes id="A0001">
+        <brand>小菜园</brand>
+        <style>红烧肉</style>
+        <color>红色有光泽</color>
+        <size>麻将块</size>
+        <num>1</num>
+        <price>58</price>
+        <description>肥而不腻</description>
+    </clothes>
+    <clothes id="A0002">
+        <brand>老王东北菜</brand>
+        <style>锅包肉</style>
+        <color>黄色</color>
+        <size>大块</size>
+        <num>1</num>
+        <price>48</price>
+        <description>嘎嘎酥脆</description>
+    </clothes>
+    <clothes id="A0003">
+        <brand>浩哥炸串</brand>
+        <style>地摊味道</style>
+        <color>亮泽</color>
+        <size>长条</size>
+        <num>10</num>
+        <price>30</price>
+        <description>小时候的味道</description>
+    </clothes>
+</list>
